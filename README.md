@@ -109,6 +109,7 @@ wsl --set-default-version 2
 #### Escolha sua distribuição Linux no Windows Store
 
 Escolha sua distribuição Linux preferida no aplicativo Windows Store, sugerimos o Ubuntu por ser uma distribuição popular e que já vem com várias ferramentas instaladas por padrão.
+Obs: Em caso de erro ao iniciar leia este artigo para ativar virtualizacao na bios e o hyper-v do windows
 
 ![Distribuições Linux no Windows Store](img/distribuicoes_linux.png)
 
